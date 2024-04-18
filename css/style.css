@@ -1,0 +1,17 @@
+body{
+    background-color:aliceblue;
+}
+
+.page_acceuil{
+    margin-top: 20vh;
+}
+
+.titre{
+    margin-top:3vh;
+    text-align:center;
+}
+.titre hr{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
